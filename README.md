@@ -2,9 +2,9 @@
 
 ## Headings
 
-----There are six levels of headings
+***There are six levels of headings
 
-----You can create them by using the # key, putting one to six # in front of your heading text with a space separating the # and the text
+***You can create them by using the # key, putting one to six # in front of your heading text with a space separating the # and the text
 
 like this:
 > \# heading 1   
