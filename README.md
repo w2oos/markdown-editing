@@ -1,6 +1,6 @@
 # Markdown Guide
 
-## - Headings
+## Headings
 
 There are six levels of headings
 
