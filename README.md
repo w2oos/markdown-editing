@@ -12,7 +12,7 @@
         * #### heading 4
         * ##### heading 5
         * ###### heading 6 
-    * *** <mark>example</mark> ***:
+    * ***<mark>example</mark>***:
 
        * \# heading 1 
        * \## heading 2
